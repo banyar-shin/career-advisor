@@ -1,0 +1,62 @@
+01) You enjoy doing scientific research.
+Data_Handlers|Chemistry|Physics|Biology|Geology|Research
+02) You enjoy collaborative work.
+Business_Managers|Builders_Design|Physical_Engineer|Food_Workers|Protective|Legal|Community_Health|Social_Workers|Computer|Programmer
+03) You focus better when working on your own.
+Geography|Social_Sciences|Ground_Transportation|Fashion
+04) Income is more important than passion to you.
+Big_Money
+05) You enjoy physically making things.
+Builders_Design|Builders_Manual|Fashion|Cosmetics|Physical_Engineer
+06) You enjoy taking things apart and learning about them.
+Physical_Engineer|Computer|Chemistry
+07) You are good at noticing small details while working.
+Management|Business|Finance|Computer|Data_Handlers|Programmer|Builders_Design|Chemistry|Physics|Biology|Geology|Therapy|Legal|Arts|Literature|Designers
+08) Computers are interesting to you.
+Computer|Programmer|Computer|Programmer
+09) You have a lot of patience for people.
+Fashion|Food_Workers|Money_Organizers|Social_Workers|Therapy|Community_Health|School_Teachers|Professors|Extracurricular_Teachers|Medical_Assistants|Protective|Policing|Personal_Care|Sales|Real_Estate|Office_And_Administrative
+10) You consider yourself a good leader.
+Business_Managers|Building_Managers|Service_Managers|Religion
+11) You are good at remembering details.
+Business_Managers|Business|Finance|Computer|Data_Handlers|Builders_Design|Geography|Chemistry|Physics|Biology|Geology|Legal|Documentation|Designers|Film_Arts|Musical_Arts|Medicine|Office_And_Administrative|Air_Transportation|Marine_Transportation|General_Doctors|Programmer
+12) You are good at applying what you've learned.
+Physical_Engineer|Programmer|Data_Handlers|Builders_Design|Geography|Chemistry|Physics|Biology|Geology|Legal|Installation|Sales|Cosmetics|Animal_Care|Cleaners|Builders_Manual|Gardening_and_Landscaping|Business_Managers
+13) You make an effort to understand other people.
+Social_Sciences|Social_Workers|Therapy|Community_Health|Religion|Legal|School_Teachers|Professors|Extracurricular_Teachers|Personal_Care|Sales|General_Doctors|Business_Managers|Business
+14) You are a person who works well under pressure.
+Chemistry|Biology|Legal|Emergency_Care|Protective|Food_Workers|Sales|Air_Transportation|Machine_Operators|Marine_Transportation
+15) When it comes to your work, you go the extra mile.
+Money_Organizers|Computer|Programmer|Builders_Design|Geography|Chemistry|Physics|Biology|Geology|School_Teachers|Professors|Extracurricular_Teachers|Documentation|Arts|Designers|Film_Arts|Public_Speaking_Art|Musical_Arts|Emergency_Care|Medical_Assistants|Protective|Policing|Food_Workers|Sales|Personal_Care
+16) You deal well with change.
+Management|Business_Managers|Building_Managers|Service_Managers|Business|Money_Organizers|Programmer|Legal|Arts|Designers|Literature|Film_Arts|Musical_Arts|Emergency_Care|Physics|Chemistry|Biology
+17) You are good at convincing people.
+Therapy|School_Teachers|Professors|Extracurricular_Teachers|Religion|Business_Managers|Legal
+18) You enjoy calculus.
+Programmer|Builders_Design|Physics|Geology|Geography|Data_Handlers
+19) You enjoy statistics.
+Management|Business_Managers|Building_Managers|Service_Managers|Business|Finance|Money_Organizers|Social_Sciences|Social_Workers|Community_Health|Documentation|Literature|Protective|Policing|Sales|Real_Estate|Office_And_Administrative|Inspectors|Data_Handlers
+20) You have good self-control.
+Finance|Money_Organizers|Business_Managers|Management|Business
+21) You enjoy public speaking.
+Sales|Policing|Protective|Public_Speaking_Art|Literature|School_Teachers|Professors|Extracurricular_Teachers|Legal|Religion|Social_Workers|Documentation
+22) You enjoy sharing what you make with others.
+Programmer|Builders_Design|Computer|Social_Sciences|Documentation|Arts|Literature|Film_Arts|Public_Speaking_Art|Musical_Arts|Medicine|Food_Workers|Builders_Manual|Gardening_and_Landscaping|Cosmetics|Farming|Fashion|Physical_Engineer|Research
+23) You enjoy finding solutions to problems.
+Programmer|Computer|Builders_Design|School_Teachers|Gardening_and_Landscaping|Fashion|Physics|Chemistry|Business_Managers|Building_Managers|Service_Managers
+24) You are able to keep your emotions under control while working with someone you don't like.
+Service_Managers|Building_Managers|Business_Managers|Management|Money_Organizers|Programmer|Biology|Social_Workers|Therapy|Community_Health|Legal|School_Teachers|Professors|Extracurricular_Teachers|Physical_Therapy|General_Doctors|Emergency_Care|Medical_Assistants|Healthcare_Specialists|Policing|Food_Workers|Builders_Manual|Gardening_and_Landscaping|Cleaners|Cosmetics|Personal_Care|Office_And_Administrative|Installation|Fashion|Ground_Transportation|Physical_Engineer
+25) You would enjoy a job that requires you to continuously learn even after college.
+School_Teachers|Therapy|Programmer|Data_Handlers|Computer|Service_Managers|Physics|Legal
+26) You prefer a job that challenges you physically.
+General_Doctors|Emergency_Care|Medical_Assistants|Installation|Builders_Manual|Gardening_and_Landscaping|Animal_Care|Sports|Farming|Food_Workers|Policing|Protective
+27) You prefer a job that challenges your thinking.
+Programmer|Chemistry|Physics|Biology|Musical_Arts|General_Doctors|Machine_Operators|Computer
+28) You enjoy doing paperwork.
+Management|Business_Managers|Building_Managers|Service_Managers|Business|Finance|Money_Organizers|Social_Sciences|Social_Workers|Community_Health|Legal|Documentation|Literature|Protective|Policing|Sales|Real_Estate|Office_And_Administrative|Inspectors
+29) You care about the environment.
+Farming|Biology
+30) You enjoy taking care of people.
+Physical_Therapy|Medicine|General_Doctors|Emergency_Care|Medical_Assistants|Healthcare_Specialists|Personal_Care|Sports|Post_Mortem_Care|Therapy
+31) You enjoy traveling.
+Air_Transportation|Marine_Transportation|Machine_Operators

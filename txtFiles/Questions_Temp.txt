@@ -1,0 +1,125 @@
+Do you enjoy doing research?
+Management|Managers|Business|Computer|Engineer|Science|Community|Legal|Education|Arts|Healthcare|Protective|Food|Building|Personal_Care|Sales|Office_And_Administrative|Farming|Trade|Installation|Production|Transportation
+Do you enjoy collaborative work with others?
+Computer
+Do you focus better when working on your own?
+Computer
+Is income more important to you than passion?
+Computer
+Do you enjoy making things?
+Computer
+Do you enjoy taking things apart and learning about them?
+Computer
+Are you a detail-oriented person?/Are you good at noticing small details?
+Computer
+Are computers interesting to you?
+Computer
+Do you have a lot of patience?
+Computer
+Would you consider yourself to be a leader?/Do you often find yourself taking charge?
+Computer
+Are you good at remembering details?
+Computer
+Are you good at applying what you know?
+Computer
+Do you make an effort to understand other people?
+Computer
+Are you a person who works well even under pressure?
+Computer
+When it comes to your work, do you often go the extra mile?
+Computer
+Are you persistent?
+Computer
+Are you flexible?/Do you deal with change well?
+Computer
+Are you good at changing people’s minds?
+Computer
+Do you enjoy math?
+Computer
+Are you the kind of person who enjoys working with your hands?
+Computer
+Do you have good self-control?
+Computer
+Do you enjoy public speaking?
+Computer
+Do you enjoy sharing what you know with others?
+Computer
+Do you enjoy searching or making your own solutions to problems?
+Computer
+You are working with someone who you do not get along with. Are you able to  have your emotions in check?
+Computer
+Would you be excited to have a job that requires you to continuously learn even after college?
+Computer
+Do you prefer a job that challenges you physically?
+Computer
+Do you prefer a job that challenges your thinking?
+Computer
+Do you like calculating and taking mild risks?
+Computer
+Does environmentalism matter to you?
+Computer
+Are you interested in joining the military?
+Computer
+
+Management
+Business_Managers
+Building_Managers
+Service_Managers
+Business
+Finance
+Money_Organizers
+Computer
+Data_Handlers
+Programmer
+Builders_Design
+Geography
+Chemistry
+Physics
+Biology
+Geology
+Social_Sciences
+Social_Workers
+Therapy
+Community_Health
+Religion
+Legal
+School_Teachers
+Professors
+Extracurricular_Teachers
+Documentation
+Sports
+Arts
+Designers
+Literature
+Film_Arts
+Public_Speaking_Art
+Musical_Arts
+Physical_Therapy
+Medicine
+General_Doctors
+Emergency_Care
+Medical_Assistants
+Healthcare_Specialists
+Protective
+Policing
+Food_Workers
+Builders_Manual
+Gardening_and_Landscaping
+Cleaners
+Animal_Care
+Post_Mortem_Care
+Cosmetics
+Personal_Care
+Sales
+Real_Estate
+Office_And_Administrative
+Farming
+Installation
+Fashion
+Ground_Transportation
+Air_Transportation
+Marine_Transportation
+Machine_Operators
+Inspectors
+Big_Money
+Physical_Engineer

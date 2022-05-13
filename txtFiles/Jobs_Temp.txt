@@ -1,0 +1,278 @@
+@Management
+Legislators
+Education Administrators
+Postmasters
+-
+@Managers
+Food Service Managers
+General Managers
+Marketing Managers
+Sales Managers
+Financial Managers
+Human Resources Managers
+Training and Development Managers
+Construction Managers
+Architectural and Engineering Managers
+Food Service Managers
+Health Services Managers
+Community Service Managers
+Funeral Home Managers
+Personal Service Managers
+-
+@Business
+Agents and Business Managers of Celebrities
+Claims Adjusters
+Logisticians
+Management Analysts
+Event Planners
+Fundraisers
+Accountants
+Property Appraisers
+Personal Financial Advisors
+Insurance Underwriters
+Tax Examiners
+-
+@Computer
+Computer and Information Research Scientists
+Computer Network Architects
+Database Administrators and Architects
+Computer Programmers
+Software Developers
+Web Developers
+Statisticians
+Data Scientists
+-
+@Engineer
+Architects
+Cartographers
+Surveyors
+Aerospace Engineers
+Bioengineers
+Chemical Engineers
+Civil Engineers
+Computer Hardware Engineers
+Electrical Engineers
+Environmental Engineers
+Health and Safety Engineers
+Industrial Engineers
+Marine Engineers
+Materials Engineers
+Mechanical Engineers
+Nuclear Engineers
+-
+@Science
+Food Scientists
+Biochemists and Biophysicists
+Microbiologists
+Zoologists
+Epidemiologists
+Medical Scientists
+Life Scientists
+Astronomers
+Physicists
+Chemists
+Materials Scientists
+Environmental Scientists
+Geoscientists
+Hydrologists
+Physical Scientists
+Economists
+Psychologists
+Sociologists
+Urban Planners
+Anthropologists and Archeologists
+Social Scientists
+-
+@Community
+Educational, Guidance, and Career Counselors
+Marriage and Family Therapists
+Rehabilitation Counselors
+Child, Family, and School Social Workers
+Healthcare Social Workers
+Social Workers
+Health Education Specialists
+Community Health Workers
+Clergy
+-
+@Legal
+Lawyers
+Judicial Law Clerks
+Administrative Law Judges
+Arbitrators, Mediators, and Conciliators
+Paralegals
+-
+@Education
+Foreign Language and Literature Teachers
+Postsecondary Teachers
+Preschool Teachers
+Kindergarten Teachers
+Elementary School Teachers
+Middle School Teachers
+Secondary School Teachers
+Career/Technical Education Teachers
+Special Education Teachers
+Substitute Teachers
+Tutors
+Archivists
+Museum Technicians
+Library Workers
+-
+@Arts
+Art Directors
+Fine Artists
+Special Effects Artists and Animators
+Commercial and Industrial Designers
+Fashion Designers
+Floral Designers
+Graphic Designers
+Interior Designers
+Actors
+Producers and Directors
+Coaches and Scouts
+Umpires and Referees
+Music Directors and Composers
+Musicians and Singers
+Broadcast Announcers
+Reporters and Journalists
+Public Relations Specialists
+Editors
+Technical Writers
+Writers and Authors
+Interpreters and Translators
+Court Reporters
+Media and Communication Workers
+Audio and Video Technicians
+Photographers
+Camera Operators
+Film and Video Editors
+Lighting Technicians
+-
+@Healthcare
+Chiropractors
+Dentists
+Nutritionists
+Optometrists
+Pharmacists
+Physical Therapists
+Veterinarians
+Registered Nurses
+Nurse Midwives
+Pediatricians
+Psychiatrists
+Physicians
+Surgeons
+Acupuncturists
+Paramedics
+Athletic Trainers
+Home Health and Personal Care Aides
+Massage Therapists
+Medical Equipment Preparers
+Medical Transcriptionists
+Phlebotomists
+-
+@Protective
+Firefighters
+Fire Inspectors and Investigators
+Correctional Officers
+Detectives and Criminal Investigators
+Patrol Officers
+Animal Control Workers
+Private Detectives
+Security Guards
+Lifeguards
+-
+@Food
+Chefs and Head Cooks
+Cooks
+Bartenders
+Waiters and Waitresses
+-
+@Building
+Janitors and Cleaners
+Maids and Housekeeping Cleaners
+Pest Control Workers
+Landscaping and Groundskeeping Workers
+Tree Trimmers and Pruners
+Grounds Maintenance Workers
+-
+@Personal_Care
+Animal Trainers
+Animal Caretakers
+Embalmers
+Morticians
+Hairdressers, Hairstylists, and Cosmetologists
+Manicurists and Pedicurists
+Skincare Specialists
+Concierges
+Tour and travel guides
+Childcare Workers
+Exercise Trainers
+-
+@Sales
+Advertising Sales Agents
+Insurance Sales Agents
+Travel Agents
+Real Estate Brokers
+Real Estate Sales Agents
+Sales Engineers
+-
+@Office_And_Administrative
+Bill and Account Collectors
+Financial Clerks
+Hotel, Motel, and Resort Desk Clerks
+Receptionists
+Postal Service Mail Carriers
+Office Clerks
+-
+@Farming
+Agricultural Inspectors
+Farmworkers
+-
+@Trade
+Brickmasons
+Stonemasons
+Carpenters
+Construction Laborers
+Electricians
+Plumbers
+Construction Inspectors
+-
+@Installation
+Avionics Technicians
+Aircraft Mechanics
+Automotive Service Mechanics
+Industrial Machinery Mechanics
+Electrical Power-Line Installers
+Locksmiths
+-
+@Production
+Bakers
+Butchers
+Machinists
+Welders
+Tailors
+Power Plant Operators
+Jewelers
+Etchers
+-
+@Transportation
+Commercial Pilots
+Flight Attendants
+Drivers
+Truck Drivers
+Bus Drivers
+Captains, Mates, and Pilots of Water Vessels
+Ship Engineers
+Transportation Inspectors
+Crane and Tower Operators
+-
+@Big_Money
+Financial Managers
+Marketing Managers
+Architectural and Engineering Managers
+Lawyers
+Physicians
+Surgeons
+Pediatricians
+Psychiatrists
+-
