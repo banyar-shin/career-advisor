@@ -1,0 +1,222 @@
+$152,968|General Managers
+$78,942|Legislators
+$195,566|Marketing Managers
+$184,124|Financial Managers
+$167,425|Human Resources Managers
+$160,268|Training and Development Managers
+$129,469|Construction Managers
+$118,787|Education Administrators
+$198,914|Architectural and Engineering Managers
+$61,672|Food Service Managers
+$151,462|Health Services Managers
+$91,452|Postmasters
+$76,409|Community Service Managers
+$72,071|Funeral Home Managers
+$168,023|Personal Service Managers
+$134,727|Celebrity Talent Managers
+$91,248|Claims Adjusters
+$90,033|Logisticians
+$114,419|Management Analysts
+$74,568|Event Planners
+$76,539|Fundraisers
+$98,291|Accountants
+$110,597|Property Appraisers
+$148,829|Personal Financial Advisors
+$91,875|Insurance Underwriters
+$91,529|Tax Examiners
+$162,659|Computer and Information Research Scientists
+$148,427|Computer Network Architects
+$117,539|Database Administrators
+$127,981|Computer Programmers
+$140,387|Software Developers
+$107,494|Web Developers
+$119,712|Statisticians
+$142,590|Data Scientists
+$111,454|Architects
+$114,386|Cartographers
+$96,855|Surveyors
+$129,324|Aerospace Engineers
+$105,296|Bioengineers
+$110,709|Chemical Engineers
+$124,686|Civil Engineers
+$146,001|Computer Engineers
+$126,190|Electrical Engineers
+$125,004|Environmental Engineers
+$119,477|Health and Safety Engineers
+$120,747|Industrial Engineers
+$131,901|Marine Engineers
+$107,364|Materials Engineers
+$127,310|Mechanical Engineers
+$175,482|Nuclear Engineers
+$99,431|Food Scientists
+$116,048|Biochemists and Biophysicists
+$118,272|Microbiologists
+$91,173|Zoologists
+$121,260|Epidemiologists
+$139,917|Medical Scientists
+$126,324|Life Scientists
+$178,500|Astronomers
+$165,791|Physicists
+$112,499|Chemists
+$108,999|Materials Scientists
+$107,035|Environmental Scientists
+$84,086|Geoscientists
+$117,811|Hydrologists
+$119,235|Physical Scientists
+$160,629|Economists
+$114,981|Psychologists
+$102,895|Sociologists
+$107,463|Urban Planners
+$79,897|Anthropologists and Archeologists
+$96,119|Social Scientists
+$85,293|Educational/Guidance/Career Counselors
+$82,287|Marriage and Family Therapists
+$56,606|Rehabilitation Counselors
+$61,297|Child/Family/School Social Workers
+$89,770|Healthcare Social Workers
+$85,007|Social Workers
+$84,311|Health Education Specialists
+$51,210|Community Health Workers
+$71,679|Clergy
+$191,924|Lawyers
+$74,614|Judicial Law Clerks
+$144,721|Administrative Law Judges
+$105,710|Arbitrators/Mediators/Conciliators
+$69,183|Paralegals
+$100,307|Foreign Language and Literature Teachers
+$109,568|Postsecondary Teachers
+$41,190|Preschool Teachers
+$47,527|Kindergarten Teachers
+$84,484|Elementary School Teachers
+$69,443|Middle School Teachers
+$88,551|Secondary School Teachers
+$87,312|Career/Technical Education Teachers
+$72,886|Special Education Teachers
+$46,218|Substitute Teachers
+$58,552|Tutors
+$88,618|Archivists
+$63,061|Museum Technicians
+$65,170|Library Workers
+$139,156|Art Directors
+$73,798|Fine Artists
+$101,651|Special Effects Artists and Animators
+$85,571|Commercial and Industrial Designers
+$87,800|Fashion Designers
+$36,081|Floral Designers
+$76,527|Graphic Designers
+$74,828|Interior Designers
+$0|Actors
+$113,137|Producers and Directors
+$60,654|Coaches and Scouts
+$48,782|Umpires and Referees
+$62,210|Music Directors and Composers
+$0|Musicians and Singers
+$95,537|Broadcast Announcers
+$124,309|Reporters and Journalists
+$101,389|Public Relations Specialists
+$88,569|Editors
+$103,237|Technical Writers
+$95,079|Writers and Authors
+$79,721|Interpreters and Translators
+$117,814|Court Reporters
+$72,243|Media and Communication Workers
+$64,049|Audio and Video Technicians
+$62,285|Photographers
+$50,015|Camera Operators
+$65,105|Film and Video Editors
+$69,773|Lighting Technicians
+$94,056|Chiropractors
+$164,954|Dentists
+$96,468|Nutritionists
+$132,100|Optometrists
+$159,568|Pharmacists
+$104,286|Physical Therapists
+$134,729|Veterinarians
+$144,317|Registered Nurses
+$164,883|Nurse Midwives
+$236,385|Pediatricians
+$261,618|Psychiatrists
+$191,326|Physicians
+$212,253|Surgeons
+$63,379|Acupuncturists
+$49,177|Paramedics
+$67,640|Athletic Trainers
+$35,384|Home Health and Personal Care Aides
+$60,264|Massage Therapists
+$65,231|Medical Equipment Preparers
+$52,643|Medical Transcriptionists
+$53,325|Phlebotomists
+$108,242|Firefighters
+$120,640|Fire Inspectors and Investigators
+$79,733|Correctional Officers
+$133,432|Detectives and Criminal Investigators
+$123,002|Patrol Officers
+$73,321|Animal Control Workers
+$88,439|Private Detectives
+$42,292|Security Guards
+$33,356|Lifeguards
+$65,305|Chefs and Head Cooks
+$39,416|Cooks
+$37,459|Bartenders
+$40,900|Waiters and Waitresses
+$45,123|Janitors and Cleaners
+$48,544|Maids and Housekeeping Cleaners
+$57,499|Pest Control Workers
+$46,575|Landscaping and Groundskeeping Workers
+$52,326|Tree Trimmers and Pruners
+$59,855|Grounds Maintenance Workers
+$53,189|Animal Trainers
+$37,151|Animal Caretakers
+$51,529|Embalmers
+$57,379|Morticians
+$40,761|Hairdressers/Hairstylists/Cosmetologists
+$34,206|Manicurists and Pedicurists
+$52,346|Skincare Specialists
+$38,438|Concierges
+$56,606|Tour and travel Guides
+$36,955|Childcare Workers
+$65,852|Exercise Trainers
+$93,623|Advertising Sales Agents
+$117,331|Insurance Sales Agents
+$61,987|Travel Agents
+$73,216|Real Estate Brokers
+$61,462|Real Estate Sales Agents
+$144,947|Sales Engineers
+$61,344|Bill and Account Collectors
+$52,739|Financial Clerks
+$42,706|Hotel/Motel/Resort Desk Clerks
+$43,074|Receptionists
+$55,964|Postal Service Mail Carriers
+$49,369|Office Clerks
+$82,206|Agricultural Inspectors
+$40,904|Farmworkers
+$82,234|Brickmasons
+$68,423|Stonemasons
+$77,408|Carpenters
+$61,741|Construction Laborers
+$113,437|Electricians
+$112,034|Plumbers
+$96,853|Construction Inspectors
+$75,958|Avionics Technicians
+$80,105|Aircraft Mechanics
+$62,247|Automotive Service Mechanics
+$76,968|Industrial Machinery Mechanics
+$114,785|Electrical Power-Line Installers
+$72,465|Locksmiths
+$41,071|Bakers
+$42,574|Butchers
+$59,160|Machinists
+$61,033|Welders
+$57,833|Tailors
+$108,103|Power Plant Operators
+$38,556|Jewelers
+$33,996|Etchers
+$119,979|Commercial Pilots
+$58,825|Flight Attendants
+$39,219|Drivers
+$54,302|Truck Drivers
+$63,173|Bus Drivers
+$116,141|Captains/Mates/Pilots of Water Vessels
+$111,476|Ship Engineers
+$102,566|Transportation Inspectors
+$76,150|Crane and Tower Operators

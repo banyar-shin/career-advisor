@@ -1,0 +1,40 @@
+$52,122|Administrative/Secretarial
+$43,074|Receptionist
+$219,104|Chief Executive Officer
+$106,239|Business Analyst
+$93,623|Advertising Sales Agent
+$76,527|Graphic Designer
+$101,389|Public Relations Specialist
+$95,537|Broadcaster
+$85,293|Career Counselor
+$85,007|Social Worker
+$128,101|School Psychologist
+$108,242|Firefighter
+$55,580|Accounting/Bookkeeping
+$91,248|Claims Adjuster
+$117,331|Insurance Sales Agent
+$148,829|Financial Advisor
+$144,317|Registered Nurse
+$191,326|Physician
+$164,954|Dentist
+$159,568|Pharmacist
+$128,766|Information Security Analyst
+$140,387|Software Developer
+$142,590|Data Scientist
+$127,981|Computer Programmer
+$89,641|Market Research Analyst
+$195,566|Marketing Manager
+$61,462|Real Estate Sales Agent
+$39,142|Retail Salesperson
+$40,900|Waiter/Waitress
+$37,459|Bartender
+$65,305|Chef
+$36,342|Cashier
+$113,437|Electrician
+$112,034|Plumber
+$75,279|Painter
+$43,038|Construction
+$111,454|Architect
+$124,686|Civil Engineer
+$126,190|Electrical Engineer
+$127,310|Mechanical Engineer

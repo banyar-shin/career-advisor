@@ -1,0 +1,60 @@
+@Business
+Administrative/Secretarial
+Receptionist
+Chief Executive Officer
+Business Analyst
+-
+@Media
+Advertising Sales Agent
+Graphic Designer
+Public Relations Specialist
+Broadcaster
+-
+@Public
+Career Counselor
+Social Worker
+School Psychologist
+Firefighter
+-
+@Finance
+Accounting/Bookkeeping
+Claims Adjuster
+Insurance Sales Agent
+Financial Advisor
+-
+@Healthcare
+Registered Nurse
+Physician
+Dentist
+Pharmacist
+-
+@IT
+Information Security Analyst
+Software Developer
+Data Scientist
+Computer Programmer
+-
+@Sales
+Market Research Analyst
+Marketing Manager
+Real Estate Sales Agent
+Retail Salesperson
+-
+@Service
+Waiter/Waitress
+Bartender
+Chef
+Cashier
+-
+@Engineer
+Architect
+Civil Engineer
+Electrical Engineer
+Mechanical Engineer
+-
+@Trade
+Electrician
+Plumber
+Painter
+Construction
+-

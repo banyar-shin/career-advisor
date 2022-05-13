@@ -1,0 +1,387 @@
+@Management
+Legislators
+Education Administrators
+Postmasters
+-
+@Business_Managers
+General Managers
+Marketing Managers
+Human Resources Managers
+Training and Development Managers
+-
+@Building_Managers
+Construction Managers
+Architectural and Engineering Managers
+-
+@Service_Managers
+Health Services Managers
+Community Service Managers
+Funeral Home Managers
+Personal Service Managers
+-
+@Business
+Celebrity Talent Managers
+Management Analysts
+Insurance Underwriters
+-
+@Finance
+Tax Examiners
+Accountants
+Claims Adjusters
+Financial Managers
+Personal Financial Advisors
+-
+@Money_Organizers
+Event Planners
+Fundraisers
+Property Appraisers
+-
+@Computer
+Computer and Information Research Scientists
+Computer Network Architects
+Computer Engineers
+-
+@Data_Handlers
+Statisticians
+Data Scientists
+Economists
+Logisticians
+Database Administrators
+-
+@Programmer
+Computer Programmers
+Software Developers
+Web Developers
+-
+@Builders_Design
+Architects
+Civil Engineers
+Industrial Engineers
+Marine Engineers
+-
+@Geography
+Cartographers
+Surveyors
+-
+@Chemistry
+Chemical Engineers
+Nuclear Engineers
+Materials Engineers
+Materials Scientists
+Chemists
+Pharmacists
+-
+@Physics
+Mechanical Engineers
+Aerospace Engineers
+Electrical Engineers
+Physical Scientists
+Physicists
+Astronomers
+-
+@Research
+Physicists
+Chemists
+Materials Scientists
+Astronomers
+Data Scientists
+Biochemists and Biophysicists
+Life Scientists
+Nutritionists
+-
+@Biology
+Bioengineers
+Health and Safety Engineers
+Environmental Engineers
+Environmental Scientists
+Food Scientists
+Biochemists and Biophysicists
+Microbiologists
+Zoologists
+Epidemiologists
+Medical Scientists
+Life Scientists
+Anthropologists and Archeologists
+Nutritionists
+-
+@Geology
+Geoscientists
+Hydrologists
+-
+@Social_Sciences
+Sociologists
+Social Scientists
+Urban Planners
+Psychiatrists
+Psychologists
+-
+@Social_Workers
+Child/Family/School Social Workers
+Social Workers
+-
+@Therapy
+Educational/Guidance/Career Counselors
+Marriage and Family Therapists
+Rehabilitation Counselors
+Psychiatrists
+Psychologists
+-
+@Community_Health
+Health Education Specialists
+Community Health Workers
+Healthcare Social Workers
+Health Services Managers
+-
+@Religion
+Clergy
+-
+@Legal
+Lawyers
+Judicial Law Clerks
+Administrative Law Judges
+Arbitrators/Mediators/Conciliators
+Paralegals
+-
+@School_Teachers
+Preschool Teachers
+Kindergarten Teachers
+Elementary School Teachers
+Middle School Teachers
+Special Education Teachers
+Secondary School Teachers
+Substitute Teachers
+-
+@Professors
+Postsecondary Teachers
+-
+@Extracurricular_Teachers
+Foreign Language and Literature Teachers
+Tutors
+Career/Technical Education Teachers
+-
+@Documentation
+Archivists
+Museum Technicians
+Library Workers
+Tour and travel Guides
+-
+@Sports
+Coaches and Scouts
+Umpires and Referees
+Exercise Trainers
+Athletic Trainers
+-
+@Arts
+Art Directors
+Fine Artists
+Etchers
+-
+@Designers
+Fashion Designers
+Floral Designers
+Graphic Designers
+Interior Designers
+-
+@Literature
+Editors
+Technical Writers
+Writers and Authors
+-
+@Film_Arts
+Special Effects Artists and Animators
+Commercial and Industrial Designers
+Actors
+Producers and Directors
+Film and Video Editors
+Lighting Technicians
+Camera Operators
+Audio and Video Technicians
+Photographers
+Media and Communication Workers
+-
+@Public_Speaking_Art
+Interpreters and Translators
+Court Reporters
+Broadcast Announcers
+Reporters and Journalists
+Public Relations Specialists
+-
+@Musical_Arts
+Music Directors and Composers
+Musicians and Singers
+-
+@Physical_Therapy
+Acupuncturists
+Massage Therapists
+Chiropractors
+Physical Therapists
+-
+@Medicine
+Pharmacists
+Skincare Specialists
+-
+@General_Doctors
+Pediatricians
+Physicians
+Dentists
+Optometrists
+-
+@Emergency_Care
+Surgeons
+Paramedics
+-
+@Medical_Assistants
+Registered Nurses
+Nurse Midwives
+Medical Equipment Preparers
+Medical Transcriptionists
+-
+@Healthcare_Specialists
+Phlebotomists
+Skincare Specialists
+-
+@Protective
+Firefighters
+Fire Inspectors and Investigators
+Lifeguards
+-
+@Policing
+Correctional Officers
+Patrol Officers
+Security Guards
+Private Detectives
+Detectives and Criminal Investigators
+-
+@Food_Workers
+Chefs and Head Cooks
+Cooks
+Bartenders
+Waiters and Waitresses
+Bakers
+Butchers
+Food Service Managers
+-
+@Builders_Manual
+Concierges
+Brickmasons
+Stonemasons
+Carpenters
+Construction Laborers
+Construction Inspectors
+Electricians
+Locksmiths
+Aircraft Mechanics
+Automotive Service Mechanics
+Industrial Machinery Mechanics
+Machinists
+Welders
+-
+@Gardening_and_Landscaping
+Landscaping and Groundskeeping Workers
+Tree Trimmers and Pruners
+Grounds Maintenance Workers
+-
+@Cleaners
+Janitors and Cleaners
+Pest Control Workers
+Maids and Housekeeping Cleaners
+Plumbers
+-
+@Animal_Care
+Animal Trainers
+Animal Caretakers
+Animal Control Workers
+Veterinarians
+Zoologists
+-
+@Post_Mortem_Care
+Embalmers
+Morticians
+Funeral Home Managers
+-
+@Cosmetics
+Hairdressers/Hairstylists/Cosmetologists
+Manicurists and Pedicurists
+Skincare Specialists
+-
+@Personal_Care
+Childcare Workers
+Exercise Trainers
+Home Health and Personal Care Aides
+Maids and Housekeeping Cleaners
+-
+@Sales
+Advertising Sales Agents
+Insurance Sales Agents
+Travel Agents
+Sales Engineers
+Sales Managers
+-
+@Real_Estate
+Real Estate Brokers
+Real Estate Sales Agents
+Property Appraisers
+-
+@Office_And_Administrative
+Bill and Account Collectors
+Financial Clerks
+Hotel/Motel/Resort Desk Clerks
+Receptionists
+Postal Service Mail Carriers
+Office Clerks
+-
+@Farming
+Agricultural Inspectors
+Farmworkers
+-
+@Installation
+Avionics Technicians
+Electrical Power-Line Installers
+Electricians
+-
+@Fashion
+Tailors
+Jewelers
+Fashion Designers
+-
+@Ground_Transportation
+Drivers
+Truck Drivers
+Bus Drivers
+-
+@Air_Transportation
+Commercial Pilots
+Flight Attendants
+Tour and travel Guides
+-
+@Marine_Transportation
+Captains/Mates/Pilots of Water Vessels
+Ship Engineers
+-
+@Machine_Operators
+Crane and Tower Operators
+Power Plant Operators
+-
+@Inspectors
+Transportation Inspectors
+Agricultural Inspectors
+Fire Inspectors and Investigators
+Construction Inspectors
+-
+@Big_Money
+Financial Managers
+Marketing Managers
+Architectural and Engineering Managers
+Lawyers
+Physicians
+Surgeons
+Pediatricians
+Psychiatrists
+-
+@Physical_Engineer
+Civil Engineers
+Mechanical Engineers
+Aerospace Engineers
+Electrical Engineers
+Ship Engineers
+-
