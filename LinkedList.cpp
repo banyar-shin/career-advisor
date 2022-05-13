@@ -6,23 +6,6 @@
 
 void build_list(List& mylist, std::string filename)
 {
-    /*
-    ListNode* newListNode = new ListNode;
-    newListNode->data = newdata;
-
-    newListNode->prev = mylist.tail;
-    if (mylist.tail == nullptr)
-    {
-        mylist.head = newListNode;
-        mylist.tail = newListNode;
-    }
-    else
-    {
-        mylist.tail->next = newListNode;
-        mylist.tail = newListNode;
-    } 
-    */
-
     std::ifstream in_file;
     std::string fileLine = "", ListNodeQuestion = "", ListNodeJobGroup = ""; 
 
@@ -78,7 +61,7 @@ void display (List& mylist) // displays list for testing
     temp = mylist.head;
     while (temp != nullptr)
     {
-        std::cout << temp->question << " ";
+        std::cout << temp->question << std::endl;
         temp = temp->next;
     }
 }

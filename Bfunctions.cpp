@@ -33,10 +33,11 @@ void greetings()
         name = "User";
 
     output_name(name);
-    std::cout << "\nHello, " << name << ", I'm Erena, your virtual counselor! My purpose is to provide guidance\n"
-    << "towards a career field in Alameda county or Santa Clara county. I will be asking you for your zip code in any of these two counties\n" 
-    << "so I know where to look in my binder, and you'll have to tell me how much you agree to a\n" 
-    << "number of statements. Then, I'll recommend you to ten jobs that suits you according to your answers.\n"
+    std::cout << "\nHello, " << name << ", I'm Erena, your virtual counselor! My purpose is to provide\n"
+    << "guidance towards a career field in Alameda or Santa Clara county. I will be asking you\n" 
+    << "for your zip code in any of these two counties so I know where to look in my binder,\n" 
+    << "and you'll have to tell me how much you agree to a number of statements. Then, I'll\n"
+    << "recommend you to ten jobs that suits you according to your answers.\n"
     << "\nDo you want to proceed? (y/n): ";
 
     std::string ans = ""; // string to store input
@@ -45,12 +46,12 @@ void greetings()
         std::cin >> ans; // gets the input
         if (ans == "y" || ans == "Y") // if input is yes
         {
-            std::cout << "\nOkay! Let's get this started! \n";
+            std::cout << "\nOkay! Let's get this started!\n";
             break; // end loop
         }
         else if (ans == "n" || ans == "N") // if input is no
         {
-            std::cout << "\nThank you for your time.\n\n";
+            std::cout << "\nOkay... Have a great day.\n\n";
             exit(0); // exit program
         }
         else // if invalid input

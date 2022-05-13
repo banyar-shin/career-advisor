@@ -27,7 +27,7 @@ void build_list(List& mylist, std::string filename);
 // to add a ListNode at the end of a linked list
 
 void display (List& mylist);
-// displays the contents of a linked list
+// displays the contents of a linked list for testing purposes
 
 void free(List& mylist);
 // deallocates the list by deleting every ListNode, prevent mem leak

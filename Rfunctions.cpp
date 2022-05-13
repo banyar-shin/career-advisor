@@ -20,7 +20,7 @@ std::unordered_map<int, std::string> storeZip()
     std::string text; //Buffer for holding each line of .txt file
 
     std::ifstream reader; //For reading in file
-    reader.open("zipcode_county_new.txt"); //Open the file, zipcode_county.txt, for reading
+    reader.open("ZipcodeCounty.txt"); //Open the file, zipcode_county.txt, for reading
 
     //Checking if the file is opened properly
     if (reader.fail())

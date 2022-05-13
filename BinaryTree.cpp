@@ -86,26 +86,35 @@ void survey()
 {
 	std::ofstream out("userdata.csv", std::ios::app);
     std::string prompt;
-    std::cout << "Would you like to provide feedback for the program? (Y for yes): ";
+    std::cout << "Would you like to provide feedback for the program? (y/n): ";
     std::cin >> prompt;
-	if (prompt != "Y" && prompt != "y")
+
+	while (prompt != "N" && prompt != "n" && prompt != "Y" && prompt != "y")
+    {
+		std::cout << "Invalid input, please only enter (y/n): ";
+		std::cin >> prompt;
+	}
+	if (prompt == "N" || prompt == "n")
+	{
 		out << std::endl;
-    if (prompt == "Y" || prompt == "y")
+		std::cout << "\nThank you for coming by!\n\n";
+	}
+    else if (prompt == "Y" || prompt == "y")
     {
         BinaryTree question_tree(
 	    	"Were the jobs relevant to you?",
 	    	BinaryTree("Can you see this being useful to others?",
 	    		BinaryTree("Would you recommend this to your friends?",
-	    			BinaryTree("\nThank you for your positive feedback!"),
-	    			BinaryTree("\nSorry to hear that. Thank you for the feedback.")),
-	    		BinaryTree("\nSorry to hear that. Thank you for the feedback.")),
+	    			BinaryTree("\nThank you for your positive feedback!\n"),
+	    			BinaryTree("\nSorry to hear that. Thank you for the feedback.\n")),
+	    		BinaryTree("\nSorry to hear that. Thank you for the feedback.\n")),
 	    	BinaryTree("Were we far off the mark?",
 	    		BinaryTree("Is is close enough for us to possibly reach it by adjusting the system?",
-	    			BinaryTree("\nThank you for your feedback!"),
-	    			BinaryTree("\nSorry to hear that. Thank you for the feedback.")),
+	    			BinaryTree("\nThank you for your feedback!\n"),
+	    			BinaryTree("\nSorry to hear that. Thank you for the feedback.\n")),
 	    		BinaryTree("If we made improvements, would you try again?",
-	    			BinaryTree("\nThank you for your feedback!"),
-	    			BinaryTree("\nSorry to hear that. Thank you for the feedback."))));
+	    			BinaryTree("\nThank you for your feedback!\n"),
+	    			BinaryTree("\nSorry to hear that. Thank you for the feedback.\n"))));
 
 		TreeNode* pointer;
 		pointer = question_tree.get_root();
@@ -147,6 +156,4 @@ void survey()
 		out << std::endl;
 		question_tree.deallocateTree(pointer);
     }
-    else
-        return;
 }
