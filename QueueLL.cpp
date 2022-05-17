@@ -1,3 +1,8 @@
+/**
+ * Many of the following classes were taken from the text book.
+ * Some changes were applied to fit the context of the lab.
+*/
+
 #include "QueueLL.h"
 
 Queue::Queue()
@@ -44,12 +49,12 @@ int Queue::size() const
 
 void Queue::WriteToFile()
 {
-    std::ofstream out_file("userdata.csv", std::ios::app);
-    while (size() != 0)
+    std::ofstream out_file("userdata.csv", std::ios::app); //Open file
+    while (size() != 0) //If queue is not empty
     {
-        out_file << front() << ",";
-        pop();
-    }
-    out_file << ",";
-    out_file.close();
+        out_file << front() << ","; //Output to file
+        pop(); //Pop from queue
+	}
+    out_file << ","; //Output an additonal comma for csv file
+    out_file.close(); //Close file
 }

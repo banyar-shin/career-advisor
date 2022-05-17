@@ -1,5 +1,5 @@
 /**
- * File: functionsR.h
+ * File: Rfunctions.h
  * Programmer: Ruby Huynh
  * Note: Use storeZip before using countyFile
 */ 

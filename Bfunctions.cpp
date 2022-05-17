@@ -1,5 +1,5 @@
 /**
- * File: functionsB.cpp
+ * File: Bfunctions.cpp
  * Programmer: Banyar Min Shin
 */ 
 
@@ -119,11 +119,12 @@ void questionnaire (List& mylist, HashTable jobTable, std::unordered_map<std::st
             {
                 //Go the job category
                 std::string category = mylist.traverse->JobGroups[i];
-                // std::cout << "Category in For Loop: " << category << std::endl;
+                // std::cout << "Category in For Loop: " << category << std::endl; //For testing
 
                 //Used to create vector holding jobs within the category
                 std::vector<std::string> innerVec = returnJobs(category, jobMap);
-                // for (int i = 0; i < innerVec.size(); i++)
+                
+                // for (int i = 0; i < innerVec.size(); i++) //For testing
                 // {
                     // std::cout << innerVec[i] << std::endl;
                 // }

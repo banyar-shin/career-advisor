@@ -1,5 +1,5 @@
 /**
- * File: functionsE.h
+ * File: Efunctions.h
  * Programmer: Eric Clark
 */ 
 

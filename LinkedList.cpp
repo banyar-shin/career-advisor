@@ -15,11 +15,10 @@ void build_list(List& mylist, std::string filename)
     {
         ListNode* newListNode = new ListNode;
         char lastCh = fileLine[fileLine.size() - 2];
-        // std::cout << fileLine[fileLine.size() - 2] << std::endl;
 
-        if(lastCh == '.')
+        if(lastCh == '.') //If the line is a question/statement
         {
-            newListNode->question = fileLine;
+            newListNode->question = fileLine; //the question is stored into the node
             
             getline(in_file, fileLine);
             for(int i = 0; i < fileLine.length() - 1; i++)
@@ -27,8 +26,7 @@ void build_list(List& mylist, std::string filename)
                 char ch = fileLine[i];
                 if(ch == '|')
                 {
-                    // std::cout << ListNodeJobGroup << std::endl;
-                    newListNode->JobGroups.push_back(ListNodeJobGroup);
+                    newListNode->JobGroups.push_back(ListNodeJobGroup); //putting the job categories into a vector
                     ListNodeJobGroup = "";
                 }
                 else
@@ -36,8 +34,7 @@ void build_list(List& mylist, std::string filename)
                     ListNodeJobGroup += ch;
                 } //end of if else
             } //end of for
-            // std::cout << ListNodeJobGroup << std::endl;
-            newListNode->JobGroups.push_back(ListNodeJobGroup);
+            newListNode->JobGroups.push_back(ListNodeJobGroup); //storing that vector into the node along with the question
             ListNodeJobGroup = "";
             
             if (mylist.tail == nullptr)

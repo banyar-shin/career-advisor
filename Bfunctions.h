@@ -1,5 +1,5 @@
 /**
- * File: functionsB.h
+ * File: Bfunctions.h
  * Programmer: Banyar Min Shin
 */
 

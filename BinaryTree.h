@@ -1,3 +1,8 @@
+/**
+ * Many of the following classes were taken from the text book.
+ * Some changes were applied to fit the context of the lab.
+*/
+
 #ifndef BINARYTREE_H
 #define BINARYTREE_H
 

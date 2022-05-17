@@ -1,3 +1,8 @@
+/**
+ * Many of the following classes were taken from the text book.
+ * Some changes were applied to fit the context of the lab.
+*/
+
 #ifndef QUEUELL_H
 #define QUEUELL_H
 #include <iostream>
@@ -12,7 +17,6 @@ private:
 	QueueNode* next;
 friend class Queue;   
 };
-
 
 /**
 	An implementation of a queue as a sequence of QueueNodes.
@@ -48,6 +52,9 @@ public:
 	*/
 	int size() const;
 
+	/**
+		Outputs the contents of a queue to userdata.csv
+	*/
     void WriteToFile();
 
 private:

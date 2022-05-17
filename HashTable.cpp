@@ -1,6 +1,6 @@
 /**
- * The following classes were taken from the text book.
- * Minor changes were applied to fit the context of the lab.
+ * Many of the following classes were taken from the text book.
+ * Some changes were applied to fit the context of the lab.
 */
 
 #include <iostream>

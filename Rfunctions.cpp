@@ -1,7 +1,8 @@
 /*
- * File: functionsR.cpp
+ * File: Rfunctions.cpp
  * Programmer: Ruby Huynh
 */
+
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -11,7 +12,7 @@
 #include "Vfunctions.h"
 #include "Rfunctions.h"
 
-//___________________________________________Zip Code Map_____________________________________________
+//___________________________________________Zip Code Map_____________________________________________//
 
 //Creates a map with the zipcode and filename of Alameda/Santa Clara county
 std::unordered_map<int, std::string> storeZip()
@@ -191,7 +192,7 @@ void jobSort(HashNode** jobArr, int size)
     }
 }
 
-//Test function. Used to print the heap. 
+//Test function. Used to print the sorted array of pointers. 
 void testPrintHeap(HashNode** jobArr, int size)
 {
     std::cout << std::endl;
